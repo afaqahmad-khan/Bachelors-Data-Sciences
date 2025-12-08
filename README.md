@@ -1,10 +1,10 @@
-👋**Hi, I’m Afaq — Data Science Student**
+👋**Hi, I’m Afaq Ahmad ; Data Sciences Student**
 
-I’m currently pursuing my Bachelor’s in Data Science. This profile contains my labs, assignments, and projects from my degree. It represents my learning journey as I continue to build skills in data and programming.
+I’m currently pursuing my Bachelors in Data Sciences. This profile contains my labs, assignments, and projects from my degree. It represents my learning journey as I continue to build skills in data and programming.
 
 📂**What You’ll Find Here**
 
-This repository includes my semester-wise lab work and course projects related to data science, programming, and real-world problem solving.
+This repository includes my lab work and course projects related to data science, programming, and real-world problem solving.
 
 🛠**Skills I’m Developing**
 
